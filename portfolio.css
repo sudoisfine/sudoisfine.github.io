@@ -1,0 +1,86 @@
+@import url(https://fonts.googleapis.com/css?family=Poiret+One|Merriweather:700,400,300);
+
+/*Header section*/
+.icon {
+  color: #fff;
+}
+
+.navbar.navbar-inverse.navbar-fixed-top {
+  border-bottom-width: 0px;
+  margin-bottom: 0px;
+}
+
+/* unvisited link */
+a:link {
+    color: #0099c7;
+}
+
+/* visited link */
+a:visited {
+    color: #00ade1;
+}
+
+/* mouse over link */
+a:hover {
+    color: #c70099;
+}
+
+/* selected link */
+a:active {
+    color: #ffffff;
+}
+
+.jumbotron {
+  background-image: url("files/pluto.jpg");
+  background-position: center top;
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 206px 0 20px 0;
+  margin: 0;
+  text-align: center;
+  color: #f0f0f5;
+}
+
+#title {
+  font-family: 'Merriweather', serif;
+  font-weight: 700;
+}
+
+/*end header section*/
+
+/*body section*/
+
+#fancier {
+  font-family: 'Merriweather', serif;
+  font-weight: 700;
+  background-color: #ffffff;
+  padding-top: 50px;
+  text-align: center;
+}
+
+.text {
+  color: #29293d;
+  font-size: 1.5em;
+  background-color: #ffffff;
+  padding: 30px;
+}
+
+.fancy {
+  font-family: 'Poiret One', cursive;
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+
+.reg {
+  font-family: 'Merriweather', serif;
+  font-weight: 400;
+  padding: 1.5%;
+  text-align: center;
+}
+
+#low {
+  background-color: ##f0f0f5;
+  color: #29293d;
+}
+
+/*end body section*/
